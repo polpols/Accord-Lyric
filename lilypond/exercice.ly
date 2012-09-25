@@ -1,3 +1,7 @@
+\header {
+   title = "Exercice"
+   composer = "Dorin Gall"
+}
 music = \relative c' {
 
 g,8 a bes d
