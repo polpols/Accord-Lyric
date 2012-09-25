@@ -1,0 +1,5 @@
+﻿Horodatage	NomFichier	Erreur	Message
+2012-09-25 07:53:22.018 +0200	Songs.fmp12	0	*** Contrôle de cohérence démarré sur un fichier incorrectement fermé, 29 bloc(s) à contrôler au total
+2012-09-25 07:53:22.020 +0200	Songs.fmp12	8432	La page 29 est marquée comme libre mais ne figure pas dans la liste libre
+2012-09-25 07:53:22.020 +0200	Songs.fmp12	0	Réinitialiser numéro de séquence de bloc maximum à 1961
+2012-09-25 07:53:22.020 +0200	Songs.fmp12	0	*** Contrôle de cohérence terminé, 29 bloc(s) contrôlé(s)
