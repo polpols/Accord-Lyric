@@ -12,7 +12,7 @@
                         #guitar-tuning #"x;7-3;6-2;7-4;5-1;x;"
  
 MyChords = \chordmode { a1:m6 | d2:m6 | a2:7 | e':7 | a:m6 }  
-MyRythm
+
 << 
 \new ChordNames {\MyChords}
 \new FretBoards{
