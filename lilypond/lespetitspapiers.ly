@@ -27,7 +27,14 @@ music = \relative c' {
 	a'2
 	f
 	d
-  }
+	c'8 b b d,
+	e2
+	e8 g b g
+	a f f c
+	g2
+  
+
+}
 
 <<
 
