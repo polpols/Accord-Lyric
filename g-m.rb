@@ -14,7 +14,7 @@ Nokogiri::HTML(open(root)).css('li.mega a').each do |t|
     doc=Nokogiri::HTML(open(root+d))
     img=doc.css('#ja-content img').attribute("src").text
     remote_path=root+img
-    local_path=local_root+remote_path.split("/")[4]
+    local_path=local_root+e+"-"+remote_path.split("/")[4]
     File.open(local_path,"wb") do |f|
       open(remote_path,"rb") do |read_f|
         f.write(read_f.read)        
